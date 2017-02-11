@@ -1,3 +1,3 @@
 # Artificial-Intelligence
 
-Random codes and project related to AI.
+Random codes and projects related to AI.
